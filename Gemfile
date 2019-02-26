@@ -7,7 +7,7 @@ gem 'pg', '~> 0.21'
 gem 'puma'
 gem 'rails', '5.2.2'
 gem 'redis'
-#adding gem for a better search
+#adding gem for a better searchr
 gem 'pg_search'
 
 gem 'autoprefixer-rails'
