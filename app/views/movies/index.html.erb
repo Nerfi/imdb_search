@@ -1,3 +1,12 @@
+<%= form_tag movies_path, method: :get do %>
+  <%= text_field_tag :query,
+    params[:query], #esta linea lo que hace es coger los parametros que mandamos al escribir la movie que queremos
+    class: "form-control",
+    placeholder: "Find a movie"
+  %>
+<% end %>
+
+
 <div class="container">
   <div class="row">
     <div class="col-sm-8 col-sm-offset-2">
@@ -10,3 +19,4 @@
     </div>
   </div>
 </div>
+
