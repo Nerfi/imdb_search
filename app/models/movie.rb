@@ -1,5 +1,7 @@
 class Movie < ApplicationRecord
   belongs_to :director
+  include PgSearch
+  multisearchable against: [ :title, :syllabus ]
 
   include PgSearch
   pg_search_scope :search_by_title_and_syllabus,
@@ -26,3 +28,5 @@ class Movie < ApplicationRecord
       tsearch: { prefix: true }
     }
 end
+
+

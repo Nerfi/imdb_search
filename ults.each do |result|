@@ -1,0 +1,80 @@
+=> [[32m#<PgSearch::Document:0x000055b8ef180d00[0m
+  id: [1;34m2[0m,
+  content:
+   [31m[1;31m"[0m[31mBatman v Superman: Dawn of Justice Fearing the actions of a god-like Super Hero left unchecked,[1;35m\n[0m[31mGotham City's own formidable, forceful vigilante takes on Metropolis'[1;35m\n[0m[31mmost revered, modern-day savior, while the world wrestles with what[1;35m\n[0m[31msort of hero it really needs. And with Batman and Superman at war[1;35m\n[0m[31mwith one another, a new threat quickly arises, putting mankind in[1;35m\n[0m[31mgreater danger than it's ever known before.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m2[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8ef15b5c8[0m
+  id: [1;34m3[0m,
+  content:
+   [31m[1;31m"[0m[31mSuperman Returns Superman reappears after a long absence, but is challenged by an old foe[1;35m\n[0m[31mwho uses Kryptonian technology for world domination.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m3[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8ef15a6a0[0m
+  id: [1;34m8[0m,
+  content:
+   [31m[1;31m"[0m[31mLois & Clark: The New Adventures of Superman In addition to fighting evil, Superman has a burning romance with Lois Lane[1;35m\n[0m[31min both his identities.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mSerie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m2[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8ef159ed0[0m
+  id: [1;34m1[0m,
+  content:
+   [31m[1;31m"[0m[31mSuperman An alien orphan is sent from his dying planet to Earth,[1;35m\n[0m[31mwhere he grows up to become his adoptive home's first and greatest superhero.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m1[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8ef1599f8[0m
+  id: [1;34m7[0m,
+  content:
+   [31m[1;31m"[0m[31mAdventures of Superman The Man of Steel fights crime with help from his friends at the Daily Planet.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mSerie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m1[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m45[0m:[1;34m01[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
+=> [[32m#<PgSearch::Document:0x000055b8f10062c0[0m
+  id: [1;34m10[0m,
+  content:
+   [31m[1;31m"[0m[31mBatman v Superman: Dawn of Justice Fearing the actions of a god-like Super Hero left unchecked,[1;35m\n[0m[31mGotham City's own formidable, forceful vigilante takes on Metropolis'[1;35m\n[0m[31mmost revered, modern-day savior, while the world wrestles with what[1;35m\n[0m[31msort of hero it really needs. And with Batman and Superman at war[1;35m\n[0m[31mwith one another, a new threat quickly arises, putting mankind in[1;35m\n[0m[31mgreater danger than it's ever known before.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m2[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8f1004a10[0m
+  id: [1;34m11[0m,
+  content:
+   [31m[1;31m"[0m[31mSuperman Returns Superman reappears after a long absence, but is challenged by an old foe[1;35m\n[0m[31mwho uses Kryptonian technology for world domination.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m3[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8f10048d0[0m
+  id: [1;34m16[0m,
+  content:
+   [31m[1;31m"[0m[31mLois & Clark: The New Adventures of Superman In addition to fighting evil, Superman has a burning romance with Lois Lane[1;35m\n[0m[31min both his identities.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mSerie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m2[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8f10046a0[0m
+  id: [1;34m9[0m,
+  content:
+   [31m[1;31m"[0m[31mSuperman An alien orphan is sent from his dying planet to Earth,[1;35m\n[0m[31mwhere he grows up to become his adoptive home's first and greatest superhero.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mMovie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m1[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<PgSearch::Document:0x000055b8f1004538[0m
+  id: [1;34m15[0m,
+  content:
+   [31m[1;31m"[0m[31mAdventures of Superman The Man of Steel fights crime with help from his friends at the Daily Planet.[1;35m\n[0m[31m[1;31m"[0m[31m[0m,
+  searchable_type: [31m[1;31m"[0m[31mSerie[1;31m"[0m[31m[0m,
+  searchable_id: [1;34m1[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mFeb[0m [1;34m2019[0m [1;34m16[0m:[1;34m47[0m:[1;34m36[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
