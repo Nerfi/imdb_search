@@ -60,3 +60,24 @@ class MoviesController < ApplicationController
     end
   end
 end
+
+
+
+#Searching multiple terms - @@
+#If a user looks for superman batman, ILIKE won't return anyt
+
+class MoviesController < ApplicationController
+  def index
+    if params[:query].present?
+      sql_query = " \
+        movies.title @@ :query \
+        OR movies.syllabus @@ :query \
+        OR directors.first_name @@ :query \
+        OR directors.last_name @@ :query \
+      "
+      @movies = Movie.joins(:director).where(sql_query, query: "%#{params[:query]}%")
+    else
+      @movies = Movie.all
+    end
+  end
+end
