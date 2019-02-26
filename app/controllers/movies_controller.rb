@@ -81,3 +81,13 @@ class MoviesController < ApplicationController
     end
   end
 end
+
+
+#not working at all
+#PgSearch::Multisearch.rebuild(Movie)
+#PgSearch::Multisearch.rebuild(Serie)
+#results = PgSearch.multisearch('superman')
+
+#.each do |result|
+ # puts result.searchable
+#end
